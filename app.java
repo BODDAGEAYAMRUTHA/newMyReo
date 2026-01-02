@@ -31,6 +31,3 @@ public class GFG {
     }
 }
 
-//hi new javacode is added
-
-//new code added
