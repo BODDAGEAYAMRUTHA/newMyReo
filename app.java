@@ -30,5 +30,3 @@ public class GFG {
             "Current Time in AM/PM Format is : " + time);
     }
 }
-
-//new code added
